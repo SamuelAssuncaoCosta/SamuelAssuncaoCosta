@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Samuel 👋
 
-<!--
-**SamuelAssuncaoCosta/SamuelAssuncaoCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+🎓 Computer Science student at UERN  
+📍 Rio Grande do Norte, Brasil  
+💡 Currently learning C programming and data structures  
+🔍 Looking for opportunities  
 
-Here are some ideas to get you started:
+## What I'm studying
+- Logic Programming
+- Algorithms and Data Structures
+- Discrete Mathematics
+- Physics I
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages & Tools
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+## Contact
+📧 samuelcostaassuncao140@gmail.com
