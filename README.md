@@ -18,4 +18,8 @@ Estou desenvolvendo meus conhecimentos em programação, lógica computacional e
 
 ## 🎯 Objetivo
 
-Continuar evoluindo como estudante e desenvolvedor, adquirindo
+Continuar evoluindo como estudante e desenvolvedor, adquirindo experiência prática e aprofundando meus conhecimentos na área de tecnologia.
+
+---
+
+*Em constante aprendizado.*
